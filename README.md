@@ -49,7 +49,7 @@ KhOS is built using Debian's native `live-build` framework. To recreate the imag
 sudo apt update && sudo apt install -y live-build debootstrap squashfs-tools xorriso
 
 # 2. Clone this repository
-git clone [https://github.com/](https://github.com/)<your-username>/KhOS.git
+git clone https://github.com/z41hk/KhOS.git
 cd KhOS
 
 # 3. Initialize configuration
